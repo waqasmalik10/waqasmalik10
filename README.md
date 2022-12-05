@@ -10,10 +10,6 @@
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 
 
 ### :man_technologist: About Me :
@@ -26,6 +22,13 @@
 - :zap: In my free time, I read new tech articles and do open source work.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-waqasmalik10-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/waqasmalik10/)
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+
 
 ---
 
