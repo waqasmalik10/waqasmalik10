@@ -1,7 +1,5 @@
 ### :man_technologist: About Me   
-<a href="https://www.linkedin.com/in/waqasmalik10/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a> 
+
 
 <p>I am a Senior Full Stack Developer | Consulant for technologies like Javascript, Typescript, NodeJS and ReactJS.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
 - :telescope: I’m working as a Principle Software Engineer, contributing and leading teams to build complex web applications, projects and products.
@@ -10,7 +8,6 @@
 
 - :zap: In my free time, I read new tech articles and do open source work.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-waqasmalik10-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/waqasmalik10/)
 
 
 <div align="center">
