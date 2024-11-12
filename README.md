@@ -1,12 +1,7 @@
 ### :man_technologist: About Me   
 
 
-<p>I am a Senior Full Stack Developer | Consulant for technologies like Javascript, Typescript, NodeJS and ReactJS.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
-- :telescope: I’m working as a Principle Software Engineer, contributing and leading teams to build complex web applications, projects and products.
-
-- :seedling: Exploring New Tools and technologies relating to Full Stack development.
-
-- :zap: In my free time, I read new tech articles and do open source work.
+Senior Software Engineer & Full Stack Developer with 8+ years of experience specializing in web and back-end development. Delivered scalable solutions for applications supporting over 1 million daily active users, optimizing system performance. Proficient in writing maintainable, efficient code and leading teams of up to 8 engineers, driving project delivery timelines by 20%. Experienced in collaborating with cross-functional, remote teams to achieve strategic goals.
 
 
 
