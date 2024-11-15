@@ -1,13 +1,90 @@
 ### :man_technologist: About Me   
 
 
-Senior Software Engineer & Full Stack Developer with 8+ years of experience specializing in web and back-end development. Delivered scalable solutions for applications supporting over 1 million daily active users, optimizing system performance. Proficient in writing maintainable, efficient code and leading teams of up to 8 engineers, driving project delivery timelines by 20%. Experienced in collaborating with cross-functional, remote teams to achieve strategic goals.
+<p>Senior Software Engineer & Full Stack Developer with 8+ years of experience specializing in web and back-end development. Delivered scalable solutions for applications supporting over 1 million daily active users, optimizing system performance. Proficient in writing maintainable, efficient code and leading teams of up to 8 engineers, driving project delivery timelines by 20%. Experienced in collaborating with cross-functional, remote teams to achieve strategic goals.</p>
+
+--- 
+
+### *EXPERIENCE*
+
+  <b>Upwork,</b> Remote   &nbsp;&nbsp;&nbsp;  Jan 2021 – Present</i> 
+  <br />
+  <b>Independent Freelancer & Consultant</b>
+- Led a platform revamp with JavaScript / Typescript stack including React.js and Node.js, achieving a 30% rise in user engagement in six months.
+- Designed scalable front-end architecture using micro frontend, boosting scalability by 40%.
+- Implemented test-driven development and a CI/CD pipeline with GitHub Actions, cutting manual intervention by 60% and time-to-market by 30%.
+- Built an intuitive UI for a complex bookshop marketplace using React.js, Node.js, Chart.js, and Lottie, increasing user engagement by 40%.
 
 
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+<b>Ryzeo,</b> Remote &nbsp;&nbsp;&nbsp; Aug 2018 – Dec 2021
+<br />
+<b>Senior Software Engineer & Team Lead</b>
+- Directed the development of a real-time user’s events capturing & workflows platform with React.js, Node.js, Web-Socket, and Tailwind UI, achieving a 50% reduction in latency.
+- Applied frontend caching and code splitting to improve performance, cutting page load times by 40%.
+- Introduced React.js and Node.js best practices with feature-driven architecture, boosting code maintainability and efficiency by 20%.
+- Established unit and end-to-end testing in a TDD framework, achieving 80-90% coverage for a bug-free codebase.
+
+
+<b>Datalatics,</b> Lahore, Pakistan &nbsp;&nbsp;&nbsp; Sep 2014 – Jul 2018
+<br />
+<b>Full Stack Developer</b>
+- Developed critical internal tools with React and Node.js, boosting team productivity by 20%.
+- Implemented a custom library in ColdFusion to streamline database queries for MySQL and SQL Server, reducing development time by 30%.
+- Integrated data sources (databases, APIs, Excel sheets) to enable custom functionalities, cutting manual data entry tasks by 30%.
+- Streamlined workflows through automated tasks and REST API development, decreasing average task completion time by 15%.
+
+
+
+<b>Techleadz,</b> Lahore, Pakistan   &nbsp; &nbsp; &nbsp; Apr 2011 – Aug 2014
+<br />
+<b>Junior Software Engineer & Internee</b>
+- Revamped legacy websites from HTML/CSS to WordPress, achieving a 50% increase in responsiveness and user engagement.
+- Applied responsive design best practices with media queries to optimize website performance across devices, boosting mobile user satisfaction and engagement by 40-50%.
+- Maintained and enhanced web applications for healthcare, rental, and retail sectors; optimized workflows that drove innovation initiatives resulting in a 30% reduction in support tickets across all industries.
+
+
+--- 
+
+### *EDUCATION*
+
+#### *Punjab University College of Information Technology,* Lahore, Pakistan  &nbsp; &nbsp; Sep 2014 – Jun 2016
+- Master of Philosophy; Major in Computer Science
+
+
+### *Punjab University College of Information Technology,* Lahore, Pakistan &nbsp; Sep 2010 – Jun 2014
+- Bachelor of science; Major in Software Engineering
+
+
+--- 
+
+### *PROJECTS*
+
+#### ZAMAKAAN
+https://www.zamakaan.com 
+
+Launched ZAMAKAAN as a comprehensive digital e-learning platform where readers can buy physical or e-books while accessing audio books; facilitated user engagement through interactive features attracting 10K+ monthly active users in the first quarter.
+- Leveraged JavaScript and TypeScript along with React.js and Node.js to develop scalable components for the e-commerce platform, resulting in a seamless user experience that led to 50% increased engagement.
+- Collaborated within a compact team of three professionals, including a designer and full-stack developer, to develop user centric features that enhanced the overall functionality of the e-commerce platform.
+
+#### ALPHA PLUS EDUCATIONAL PLATFORM
+https://aplustesting.org
+
+Alpha Plus is an innovative educational platform designed to empower educators in creating and delivering online courses, and managing student assessments.
+- Industries: Education, EdTech, E-Learning, Professional Development.
+- Tech Stack: JavaScript, TypeScript, React.js, Node.js, Nest.js, PostgreSQL, AWS, SocketIO, SCSS.
+- Partnered with a specialized team of four experts including a designer, front-end developer, back-end developer, and DevOps engineer to deliver high-impact features and enhance platform performance.
+
+
+#### NCDG PROPERTY MANAGEMENT PORTAL
+https://www.ncdevgroup.com
+
+NCDG is a real estate property management portal that aims to provide the best service throughout Michigan, Ohio and California.
+- Tech Stack: JavaScript, jQuery, Bootstrap, SQL Server, and ColdFusion.
+- Team size: 2 members including a full stack developer and a project manager.
+
+
+
 
 
 
