@@ -1,4 +1,4 @@
-### SENIOR SOFTWARE ENGINEER & FULL STACK DEVELOPER
+### Senior Software Engineer | Fullstack Developer & Technical Consultant
 
 
 <p>Senior Software Engineer & Full Stack Developer with 8+ years of experience specializing in web and back-end development. Delivered scalable solutions for applications supporting over 1 million daily active users, optimizing system performance. Proficient in writing maintainable, efficient code and leading teams of up to 8 engineers, driving project delivery timelines by 20%. Experienced in collaborating with cross-functional, remote teams to achieve strategic goals.</p>
