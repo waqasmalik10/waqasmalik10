@@ -19,7 +19,7 @@
 
 <b>Cyara,</b> Remote &nbsp;&nbsp;&nbsp; June 2022 – Jan 2025
 <br />
-<b>Senior Software Engineer & Team Lead</b>
+<b>Senior Backend Engineer</b>
 - Designed and implemented scalable backend architectures using Javascript, Typescript, Node.js, supporting high-traffic applications with seamless performance.
 - Developed and maintained RESTful APIs and WebSocket connections to enable efficient communication between client applications and backend services.
 - Optimized data storage and retrieval with MongoDB, Redis, enhancing application responsiveness and data integrity.
