@@ -10,7 +10,7 @@
   <b>Upwork,</b> Remote   &nbsp;&nbsp;&nbsp;  Feb 2025 – Present</i> 
   <br />
   <b>Independent Freelancer & Consultant</b>
-- Led a platform revamp with JavaScript / Typescript stack including React.js and Node.js, achieving a 30% rise in user engagement in six months.
+- Led a platform revamp with Python, JavaScript / Typescript including Flask, Django, and React.js, achieving a 30% rise in user engagement in six months.
 - Designed scalable front-end architecture using micro frontend, boosting scalability by 40%.
 - Implemented test-driven development and a CI/CD pipeline with GitHub Actions, cutting manual intervention by 60% and time-to-market by 30%.
 - Built an intuitive UI for a complex bookshop marketplace using React.js, Node.js, Chart.js, and Lottie, increasing user engagement by 40%.
@@ -20,7 +20,7 @@
 <b>Cyara,</b> Remote &nbsp;&nbsp;&nbsp; June 2022 – Jan 2025
 <br />
 <b>Senior Backend Engineer</b>
-- Designed and implemented scalable backend architectures using Javascript, Typescript, Node.js, supporting high-traffic applications with seamless performance.
+- Designed and implemented scalable backend architectures using Python, Javascript, Typescript, Node.js, supporting high-traffic applications with seamless performance.
 - Developed and maintained RESTful APIs and WebSocket connections to enable efficient communication between client applications and backend services.
 - Optimized data storage and retrieval with MongoDB, Redis, enhancing application responsiveness and data integrity.
 - Ensured robust security measures by implementing encryption, authentication, and authorization protocols to protect sensitive data and maintain system integrity.
