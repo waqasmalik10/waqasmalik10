@@ -45,44 +45,6 @@ Competent in AWS (Lambda, DevOps), Docker, CI/CD, and Google Cloud Platform, ena
 Specialized in developing SaaS platforms and MVPs to help startups and businesses rapidly bring ideas to market.
 
 
---- 
-
-###  *Projects*
-
-#### ASK VIDEO — VIDEO AI ASSISTANT
-https://ask-video.com/ 
-
-Built an AI application that lets users paste a YouTube link and ask questions about the video content in plain language.
-- Fetched YouTube transcripts automatically and converted them into searchable text for accurate answers. Implemented a retrieval system using embeddings and keyword search to return relevant video context before generating responses.
-- Developed the backend using Python and FastAPI, integrating LangChain with ChromaDB, BGE and BM25 for reliable and fast question answering.
-- Designed the system to handle long videos efficiently while keeping responses clear and context-aware.
-
-
-#### TESTRTC — REAL-TIME COMMUNICATION TESTING PLATFORM
-https://cyara.com/products/testrtc/ 
-
-TestRTC is a real-time testing platform that helps companies validate and monitor voice and video communication quality at scale. 
-- Industries: Telecommunications, SaaS, Quality Assurance, Enterprise Communication.
-- Tech Stack: Python, React.js, WebRTC, REST APIs, Cloud Infrastructure.
-- Collaborated with designers, backend engineers, and QA teams to deliver reliable real-time dashboards and testing workflows used by enterprise clients.
-
-
-#### ALPHA PLUS EDUCATIONAL PLATFORM
-https://aplustesting.org
-
-Alpha Plus is an innovative educational platform designed to empower educators in creating and delivering online courses, and managing student assessments.
-- Industries: Education, EdTech, E-Learning, Professional Development.
-- Tech Stack: JavaScript, TypeScript, React.js, Node.js, Nest.js, PostgreSQL, AWS, SocketIO, SCSS.
-- Partnered with a specialized team of four experts including a designer, front-end developer, back-end developer, and DevOps engineer to deliver high-impact features and enhance platform performance.
-
-
-#### NCDG PROPERTY MANAGEMENT PORTAL
-https://www.ncdevgroup.com  
-
-NCDG is a real estate property management portal that aims to provide the best service throughout Michigan, Ohio and California.
-- Tech Stack: Python, JavaScript, Bootstrap, SQL Server, and ColdFusion.
-- Team size: 2 members including a full stack developer and a project manager.
-
 
 ---
 
