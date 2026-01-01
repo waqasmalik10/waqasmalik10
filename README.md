@@ -69,4 +69,4 @@ Specialized in developing SaaS platforms and MVPs to help startups and businesse
 ---
 
 ### *Why Work With Me*
-As a versatile Full-Stack Developer, I bring extensive expertise in Python, Vue.sj/React.js and Node.js. I specialize in AI-driven applications and LLM-based automation, scalable web solutions, integrating machine learning, NLP, and intelligent data pipelines into modern platforms. With a focus on innovation, efficiency, and high-quality development, I help businesses leverage AI and automation to enhance performance and achieve their goals seamlessly.
+As a versatile AI & Full-Stack Developer, I bring extensive expertise in Python, Vue.sj/React.js and Node.js. I specialize in AI-driven applications and LLM-based automation, scalable web solutions, integrating machine learning, NLP, and intelligent data pipelines into modern platforms. With a focus on innovation, efficiency, and high-quality development, I help businesses leverage AI and automation to enhance performance and achieve their goals seamlessly.
