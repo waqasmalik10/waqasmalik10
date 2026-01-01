@@ -1,81 +1,71 @@
-### Senior Software Engineer | Fullstack Developer & Technical Consultant
+### Senior Software Engineer | Fullstack, AI & Technical Consultant
 
 
-<p>Senior Software Engineer & Full Stack Developer with 8+ years of experience specializing in web and back-end development. Delivered scalable solutions for applications supporting over 1 million daily active users, optimizing system performance. Proficient in writing maintainable, efficient code and leading teams of up to 8 engineers, driving project delivery timelines by 20%. Experienced in collaborating with cross-functional, remote teams to achieve strategic goals.</p>
+<p>Senior Software Engineer — AI & Full-Stack Developer with 8+ years of experience in AI-driven applications, web and back-end development. Built scalable systems handling 1M+ daily users, optimizing AI-powered workflows and automation. Proficient in LLM-based automation, AI-driven analytics, and intelligent data pipelines. Skilled in integrating ML models, NLP, and AI automation into web applications. Experienced in leading teams (8 engineers) and improving project delivery by 20%, collaborating with cross-functional remote teams to build next-gen AI-enhanced platforms.</p>
 
 --- 
 
-### *EXPERIENCE*
+### *Serviecs I Offer*
 
-  <b>Upwork,</b> Remote   &nbsp;&nbsp;&nbsp;  Feb 2025 – Present</i> 
-  <br />
-  <b>Independent Freelancer & Consultant</b>
-- Led a platform revamp with Python, JavaScript / Typescript including Flask, Django, and React.js, achieving a 30% rise in user engagement in six months.
-- Designed scalable front-end architecture using micro frontend, boosting scalability by 40%.
-- Implemented test-driven development and a CI/CD pipeline with GitHub Actions, cutting manual intervention by 60% and time-to-market by 30%.
-- Built an intuitive UI for a complex bookshop marketplace using React.js, Node.js, Chart.js, and Lottie, increasing user engagement by 40%.
+- 𝗔𝗜-𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗪𝗲𝗯 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀: Implementing AI models for predictive analytics, personalization, and automation.
 
+- 𝐋𝐋𝐌 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐨𝐧: Utilizing OpenAI, LangChain, Langgraph, and custom LLMs for AI-powered chatbots, document processing, and intelligent search.
 
+- 𝐂𝐡𝐚𝐭𝐛𝐨𝐭𝐬 & 𝐀𝐈-𝐃𝐫𝐢𝐯𝐞𝐧 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧𝐬: Building Chatbots, smart scheduling, recommendation engines, and workflow optimizations using AI.
 
-<b>Cyara,</b> Remote &nbsp;&nbsp;&nbsp; June 2022 – Jan 2025
-<br />
-<b>Senior Backend Engineer</b>
-- Designed and implemented scalable backend architectures using Python, Javascript, Typescript, Node.js, supporting high-traffic applications with seamless performance.
-- Developed and maintained RESTful APIs and WebSocket connections to enable efficient communication between client applications and backend services.
-- Optimized data storage and retrieval with MongoDB, Redis, enhancing application responsiveness and data integrity.
-- Ensured robust security measures by implementing encryption, authentication, and authorization protocols to protect sensitive data and maintain system integrity.
-  
+- 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: Expert Python, Node.js development and consultancy for building robust, scalable backend systems.
 
+- 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: Specialized Vue.js and React.js development and consultancy to create intuitive, responsive interfaces.
 
-<b>Ryzeo,</b> Remote &nbsp;&nbsp;&nbsp; Aug 2018 – Dec 2021
-<br />
-<b>Senior Software Engineer & Team Lead</b>
-- Directed the development of a real-time user’s events capturing & workflows platform with React.js, Node.js, Web-Socket, and Tailwind UI, achieving a 50% reduction in latency.
-- Applied frontend caching and code splitting to improve performance, cutting page load times by 40%.
-- Introduced React.js and Node.js best practices with feature-driven architecture, boosting code maintainability and efficiency by 20%.
-- Established unit and end-to-end testing in a TDD framework, achieving 80-90% coverage for a bug-free codebase.
+- 𝗘-𝗖𝗼𝗺𝗺𝗲𝗿𝗰𝗲 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀: Comprehensive e-commerce development tailored to meet your business objectives.
 
+- 𝗛𝗲𝗮𝗹𝘁𝗵 𝗖𝗮𝗿𝗲 𝗮𝗻𝗱 𝗥𝗲𝗮𝗹 𝗘𝘀𝘁𝗮𝘁𝗲 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀: Specialized healthcare software development to enhance patient management and accessibility. Expert real estate platform development for seamless property listing and transaction workflows.
 
-<b>Datalatics,</b> Lahore, Pakistan &nbsp;&nbsp;&nbsp; Sep 2014 – Jul 2018
-<br />
-<b>Full Stack Developer</b>
-- Developed critical internal tools with React and Node.js, boosting team productivity by 20%.
-- Implemented a custom library in ColdFusion to streamline database queries for MySQL and SQL Server, reducing development time by 30%.
-- Integrated data sources (databases, APIs, Excel sheets) to enable custom functionalities, cutting manual data entry tasks by 30%.
-- Streamlined workflows through automated tasks and REST API development, decreasing average task completion time by 15%.
+- 𝗖𝘂𝘀𝘁𝗼𝗺 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀: Bespoke software solutions designed to address unique business challenges.
 
-
-
-<b>Techleadz,</b> Lahore, Pakistan   &nbsp; &nbsp; &nbsp; Apr 2011 – Aug 2014
-<br />
-<b>Junior Software Engineer & Internee</b>
-- Revamped legacy websites from HTML/CSS to WordPress, achieving a 50% increase in responsiveness and user engagement.
-- Applied responsive design best practices with media queries to optimize website performance across devices, boosting mobile user satisfaction and engagement by 40-50%.
-- Maintained and enhanced web applications for healthcare, rental, and retail sectors; optimized workflows that drove innovation initiatives resulting in a 30% reduction in support tickets across all industries.
 
 
 --- 
 
-### *EDUCATION*
+### *Core Competencies*
 
-#### *Punjab University College of Information Technology,* Lahore, Pakistan  &nbsp; &nbsp; Sep 2014 – Jun 2016
-- Master of Philosophy; Major in Computer Science
+𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 & 𝗔𝗜 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻𝘀: <br />
+Experienced in integrating LLMs (Large Language Models), AI automation, and machine learning models into web applications. Skilled in OpenAI API, LangChain, Langgraph, Pytorch, and Hugging Face to build intelligent chatbots, AI-powered search, and automation-driven workflows. Capable of optimizing GraphQL and REST APIs to support AI-driven data processing and decision-making.
 
+𝗙𝘂𝗹𝗹𝘀𝘁𝗮𝗰𝗸 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: <br />
+Skilled in backend technologies, including Python, FastAPI, Flask, and Django ensuring robust and scalable application architectures. Expertise in JavaScript, Typescript, Vue.js, React.js and Tailwind UI. Adept at creating responsive, user-friendly interfaces optimized for performance and accessibility.
 
-### *Punjab University College of Information Technology,* Lahore, Pakistan &nbsp; Sep 2010 – Jun 2014
-- Bachelor of science; Major in Software Engineering
+𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁: <br />
+Experienced in database systems such as MongoDB, Postgres, MySQL, and Redis, delivering secure and efficient data solutions.
+
+𝗗𝗲𝘃𝗢𝗽𝘀 𝗮𝗻𝗱 𝗖𝗹𝗼𝘂𝗱 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀: <br />
+Competent in AWS (Lambda, DevOps), Docker, CI/CD, and Google Cloud Platform, enabling seamless deployment, scaling, and maintenance of cloud-based applications.
+
+𝗦𝗔𝗔𝗦 𝗮𝗻𝗱 𝗠𝗩𝗣 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁: <br />
+Specialized in developing SaaS platforms and MVPs to help startups and businesses rapidly bring ideas to market.
 
 
 --- 
 
-### *PROJECTS*
+###  *Projects*
 
-#### ZAMAKAAN
-https://www.zamakaan.com 
+#### ASK VIDEO — VIDEO AI ASSISTANT
+https://ask-video.com/ 
 
-Launched ZAMAKAAN as a comprehensive digital e-learning platform where readers can buy physical or e-books while accessing audio books; facilitated user engagement through interactive features attracting 10K+ monthly active users in the first quarter.
-- Leveraged JavaScript and TypeScript along with React.js and Node.js to develop scalable components for the e-commerce platform, resulting in a seamless user experience that led to 50% increased engagement.
-- Collaborated within a compact team of three professionals, including a designer and full-stack developer, to develop user centric features that enhanced the overall functionality of the e-commerce platform.
+Built an AI application that lets users paste a YouTube link and ask questions about the video content in plain language.
+- Fetched YouTube transcripts automatically and converted them into searchable text for accurate answers. Implemented a retrieval system using embeddings and keyword search to return relevant video context before generating responses.
+- Developed the backend using Python and FastAPI, integrating LangChain with ChromaDB, BGE and BM25 for reliable and fast question answering.
+- Designed the system to handle long videos efficiently while keeping responses clear and context-aware.
+
+
+#### TESTRTC — REAL-TIME COMMUNICATION TESTING PLATFORM
+https://cyara.com/products/testrtc/ 
+
+TestRTC is a real-time testing platform that helps companies validate and monitor voice and video communication quality at scale. 
+- Industries: Telecommunications, SaaS, Quality Assurance, Enterprise Communication.
+- Tech Stack: Python, React.js, WebRTC, REST APIs, Cloud Infrastructure.
+- Collaborated with designers, backend engineers, and QA teams to deliver reliable real-time dashboards and testing workflows used by enterprise clients.
+
 
 #### ALPHA PLUS EDUCATIONAL PLATFORM
 https://aplustesting.org
@@ -87,52 +77,34 @@ Alpha Plus is an innovative educational platform designed to empower educators i
 
 
 #### NCDG PROPERTY MANAGEMENT PORTAL
-https://www.ncdevgroup.com
+https://www.ncdevgroup.com  
 
 NCDG is a real estate property management portal that aims to provide the best service throughout Michigan, Ohio and California.
-- Tech Stack: JavaScript, jQuery, Bootstrap, SQL Server, and ColdFusion.
+- Tech Stack: Python, JavaScript, Bootstrap, SQL Server, and ColdFusion.
 - Team size: 2 members including a full stack developer and a project manager.
-
-
-
-
 
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Technologies and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="42" height="42"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="42" height="42"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="42" height="42"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="ExpressJS" alt="ExpressJS" width="42" height="42"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="NestJS" alt="NestJS" width="42" height="42"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="42" height="42"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" title="SocketIO" alt="SocketIO" width="42" height="42"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="42" height="42"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Redis" width="42" height="42"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="42" height="42"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="42" height="42"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original-wordmark.svg" title="Next Js" **alt="Next Js" width="42" height="42"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original-wordmark.svg" title="Gatsby" **alt="Gatsby" width="42" height="42"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original-wordmark.svg" title="Storyblock" **alt="Storyblock" width="42" height="42"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" **alt="Jest" width="42" height="42"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jquery/jquery-original-wordmark.svg" title="JQuery" **alt="JQuery" width="42" height="42"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg" title="ESLint" **alt="ESLint" width="42" height="42"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="42" height="42"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="42" height="42"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="42" height="42"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="42" height="42"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="42" height="42"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" title="Sass" **alt="Sass" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Bootstrap" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind CSS" **alt="Tailwind CSS" width="42" height="42"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="42" height="42"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" **alt="Bitbucket" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jira/jira-original-wordmark.svg" title="Jira" **alt="Jira" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/trello/trello-plain-wordmark.svg" title="Trello" **alt="Trello" width="42" height="42"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="Slack" **alt="Slack" width="42" height="42"/>
+
+- AI & Machine Learning:  Generative AI · LLM · AI Agents · Chatbots · Langchain · Langgraph · RAG · N8N · AgentKit · FAISS · ChromaDB · Pinecone
+  
+- Backend:  Python · FastAPI · Django · Flask · Asyncio · Celery · Pandas · Pytest · Nodejs 
+
+- Frontend:  Vue.js · Vuex/Pinia · React.js · Next.js · TypeScript · JavaScript · Tailwind CSS 
+
+- Database:  PostgreSQL · MongoDB · MySQL · Redis · Elasticsearch
+
+- Mobile:  React Native · Shared Web and Mobile Logic
+
+- Miscallenous:  Git · GitHub · CI/CD · Docker · AWS · GCP
  
 </div>
+
+
+---
+
+### *Why Work With Me*
+As a versatile Full-Stack Developer, I bring extensive expertise in Python, Vue.sj/React.js and Node.js. I specialize in AI-driven applications and LLM-based automation, scalable web solutions, integrating machine learning, NLP, and intelligent data pipelines into modern platforms. With a focus on innovation, efficiency, and high-quality development, I help businesses leverage AI and automation to enhance performance and achieve their goals seamlessly.
